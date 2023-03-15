@@ -2,6 +2,6 @@
 
 ````js
 const télio = {
-    skills: ['TypeScript', 'Node', 'Angular', 'Express', 'Fastify', 'PostgreSQL']
+    skills: ['TypeScript', 'Node.js', 'Angular', 'NestJs', 'Fastify', 'PostgreSQL', 'Docker']
 };
 ````
